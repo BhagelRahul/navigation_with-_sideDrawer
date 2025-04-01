@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Navigation_Drawer</string>
+    <string name="OpenNavigation">Open Drawer</string>
+    <string name="CloseNavigation">Close Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="homefragment">A ListView is a type of view in which data is displayed in a vertically scrollable list and each view within the list is placed one below to other.\n ListView is used in most applications to display the data of any specific categories within a vertically scrollable format.\n In this article, we will take a look at the implementation of ListView in Android using Jetpack Compose.\n For implementing ListView in Android using Jetpack Compose we have to use the LazyColumn widget to display a ListView.</string>
+    <string name="messagefragment">1.Android is an operating system built on a modified version of the Linux kernel\n
+        2. primarily designed for touchscreen mobile devices like smartphones and tablets.\n
+        3.For any aspiring Android developer, working on Android projects is crucial.\n
+        4.Developing a range of projects, from basic to advanced, is widely recognized as the best way to master Android development.\n
+       5.Whether you are creating simple apps or tackling complex Android projects, \nhands-on experience is essential. list and each view within the list is placed one below to other. ListView is used in most applications to display the data of any specific categories within a vertically scrollable format. In this article, we will take a look at the implementation of ListView in Android using Jetpack Compose. For implementing ListView in Android using Jetpack Compose we have to use the LazyColumn widget to display a ListView.</string>
+    <string name="contact">Gauri : 7894586595\n Vijay: 7895845695\n Rahul Kumar: 9989898959\n Vishal: 8989890001,7895845695\n Rahul Kumar: 9989898959\n Vishal: 8989890001\nGauri : 7894586595\n Dinesh kumar: 7895845695\n Rahul Kumar: 9989898959, 8989890001\n
+        Gauri : 7894586595\n Dinesh kumar: 7895845695\n Rahul Kumar: 9989898959\nVijay: 7895845695\n Rahul Kumar: 9989898959\n Vishal: 8989890001,7895845695\n Rahul Kumar: 9989898959\n Vishal: 8989890001\nGauri : 7894586595\n Dinesh kumar: 7895845695\n Rahul Kumar: 9989898959, 8989890001\n
+        Gauri : 7894586595\n Dinesh kumar: 7895845695\n Rahul Kumar: 9989898959\n Dropati nishad: 8989890001</string>
+</resources>

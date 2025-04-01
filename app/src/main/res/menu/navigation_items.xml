@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/optHome"
+        android:icon="@drawable/home"
+        android:title="Home" />
+    <item
+        android:id="@+id/optContacts"
+        android:icon="@drawable/contacts"
+        android:title="Contacts" />
+    <item
+        android:id="@+id/optMessage"
+        android:icon="@drawable/message_24"
+        android:title="Message" />
+    <item
+        android:id="@+id/optfavourite"
+        android:icon="@drawable/favorite_24"
+        android:title="Favourite" />
+    <item
+        android:id="@+id/optUpdate"
+        android:icon="@drawable/update_24"
+        android:title="Update" />
+    <item
+        android:id="@+id/optBlock"
+        android:icon="@drawable/block_24"
+        android:title="Block" />
+</menu>
